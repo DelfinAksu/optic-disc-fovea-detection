@@ -1,0 +1,18 @@
+# Ignore dataset
+data/
+
+# MATLAB files
+*.asv
+*.mat
+
+# Large files
+*.zip
+*.h5
+*.keras
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (optional)
+results/figures/
